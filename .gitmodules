@@ -16,3 +16,6 @@
 ; After cloning a fork, materialise the submodule working trees with:
 ;
 ;   git submodule update --init --recursive
+[submodule "submodules/forum-sample-app"]
+	path = submodules/forum-sample-app
+	url = https://github.com/logos-co/forum-sample-app
