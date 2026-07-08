@@ -19,3 +19,6 @@
 [submodule "submodules/forum-sample-app"]
 	path = submodules/forum-sample-app
 	url = https://github.com/logos-co/forum-sample-app
+[submodule "submodules/can-it-run-doom"]
+	path = submodules/can-it-run-doom
+	url = https://github.com/the-cybermonk/can-it-run-doom
