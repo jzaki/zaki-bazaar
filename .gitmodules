@@ -22,3 +22,6 @@
 [submodule "submodules/can-it-run-doom"]
 	path = submodules/can-it-run-doom
 	url = https://github.com/the-cybermonk/can-it-run-doom
+[submodule "submodules/keystore-signer-module"]
+	path = submodules/keystore-signer-module
+	url = https://github.com/jzaki/keystore-signer-module

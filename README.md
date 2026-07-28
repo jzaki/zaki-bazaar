@@ -12,6 +12,7 @@ Modules I make, like, or otherwise think are worth sharing.
 
 4. Now go to Applications, and under Zaki Bazaar you'll see the apps I've added
   - `[EX]` **Example Forum** by jzaki (only shows "Example..." in the icon text)
+    - **Example keystore/signer** by jzaki - dependency for Forum
   - **Can it run DOOM?** by the-cybermonk - does what it says on the tin!
 5. Click desired to install (and any dependencies)
 6. Once installed just click to run
