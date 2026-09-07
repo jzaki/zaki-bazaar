@@ -25,3 +25,6 @@
 [submodule "submodules/keystore-signer-module"]
 	path = submodules/keystore-signer-module
 	url = https://github.com/jzaki/keystore-signer-module
+[submodule "submodules/cloud-data-module"]
+	path = submodules/cloud-data-module
+	url = https://github.com/jzaki/cloud-data-module
