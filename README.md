@@ -10,7 +10,9 @@ Modules I make, like, or otherwise think are worth sharing.
 2. Open basecamp and click the gear icon (Settings), then **Package Repositories**.
 3. Add Zaki Bazaar url -> https://raw.githubusercontent.com/jzaki/zaki-bazaar/refs/heads/main/logos-repo.json
 
-4. Now go to Applications, and under Zaki Bazaar you'll see the apps I've added
+4. Now go to Applications, and under Zaki Bazaar you'll see the apps I've added:
+  - **File Drop** by jzaki - send a file straight to a peer, end-to-end encrypted
+    (needs `chat_module` + `delivery_module` from the official Logos repo)
   - **Example Forum** by jzaki - discuss ideas without sharing your personal ID
     - **Example keystore/signer** by jzaki - dependency for Forum
   - **Cloud data module** by jzaki - middleware adaptor from web2 to web3 data
