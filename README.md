@@ -11,8 +11,9 @@ Modules I make, like, or otherwise think are worth sharing.
 3. Add Zaki Bazaar url -> https://raw.githubusercontent.com/jzaki/zaki-bazaar/refs/heads/main/logos-repo.json
 
 4. Now go to Applications, and under Zaki Bazaar you'll see the apps I've added
-  - `[EX]` **Example Forum** by jzaki (only shows "Example..." in the icon text)
+  - **Example Forum** by jzaki - discuss ideas without sharing your personal ID
     - **Example keystore/signer** by jzaki - dependency for Forum
+  - **Cloud data module** by jzaki - middleware adaptor from web2 to web3 data
   - **Can it run DOOM?** by the-cybermonk - does what it says on the tin!
 5. Click desired to install (and any dependencies)
 6. Once installed just click to run
